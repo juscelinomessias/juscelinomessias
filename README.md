@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo! 👋
 
-Meu nome é Juscelino Messias, me formei em 2018 no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).  Atualmente trabalho com desenvolvimento **Frontend**, **Backend** e **Mobile**.  Sou apaixonado por tecnologia e desafios. 
+Olá! Meu nome é Juscelino Messias, me formei em 2018 no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). Sou apaixonado por tecnologia, inovação e empreendedorismo. Possuo mais de 20 anos de experiência na área de Tecnologia da Informação. Acredito muito na evolução pessoal e profissional através da educação, dos estudos e por isso me considero um eterno aprendiz, estou sempre buscando evoluir e compartilhando conhecimento. Atualmente estou focado no desenvolvimento **Frontend**, **Backend** e **Mobile**.
 
 ## Para me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juscelino-messias/)
